@@ -11,6 +11,7 @@ public class ConcatanationPracticeJava {
 		   System.out.println(s);
 		//The String concat() method concatenates the specified string to the end of current string.
 		   String s1 = "Sharif";  
+		   System.out.printlm("test")
 		   System.out.println(s.concat(s1));
 		//Intger.parseInt(String string-to-be-converted
 		   int i = Integer.parseInt("123");
